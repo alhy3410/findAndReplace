@@ -1,0 +1,17 @@
+body {
+  background-color: #001F33;
+}
+
+.container {
+  width:80%;
+  margin: 0 auto;
+}
+
+#stringEntered{
+  color: #E6F5FF;
+}
+
+h1 {
+  text-align:center;
+  color: #E6F5FF;
+}
